@@ -37,7 +37,7 @@
     "@babel/runtime": "^7.0.0",
     "appium-support": "^2.5.0",
     "authorize-ios": "^1.0.3",
-    "bluebird": "^3.5.1",
+    "bluebird": "^3.5.3",
     "colors": "^1.1.2",
     "inquirer": "^6.1.0",
     "lodash": "^4.17.10",
