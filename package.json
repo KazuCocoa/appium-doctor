@@ -41,6 +41,7 @@
     "colors": "^1.1.2",
     "inquirer": "^6.1.0",
     "lodash": "^4.17.10",
+    "ora": "^3.4.0",
     "source-map-support": "^0.5.6",
     "teen_process": "^1.3.1",
     "yargs": "^13.1.0"
